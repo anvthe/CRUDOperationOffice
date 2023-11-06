@@ -28,7 +28,6 @@ public class StudentController {
         public List<Student> getsStudents () {
         return studentService.getsStudents();
 
-
         }
     }
 
